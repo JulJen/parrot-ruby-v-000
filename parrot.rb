@@ -3,11 +3,4 @@
 def parrot(phrase = "Squawk!")
   puts phrase
   return phrase
-  # phrase = "Squawk!"
-  # puts phrase
 end
-
-# def parrot(phrase)
-#   parrot = "Pretty bird!
-#   puts "A group of flamingos is called a #{phrase}"
-# end
