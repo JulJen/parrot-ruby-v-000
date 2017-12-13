@@ -2,5 +2,5 @@
 def parrot
   "Squawk!"
   parrot = "Pretty bird!"
-  phrase = #{parrot}
+  puts "#{parrot}"
 end
