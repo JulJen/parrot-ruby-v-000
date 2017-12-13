@@ -1,4 +1,5 @@
 # Create method `parrot` that outputs a given phrase and
 def parrot(phrase="Squawk!")
-  phrase="Pretty bird!"
+  if phrase="Pretty bird!"
+  else phrase 
 end
